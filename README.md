@@ -6,7 +6,7 @@ My solutions for Codewars Katas
 <br>
 - Credit card mask (Python)
 <br>
-- Sum of odd numbers (python
+- Sum of odd numbers (Python)
 <br>
 </details>
 
