@@ -6,6 +6,8 @@ My solutions for Codewars Katas
 <br>
 - Credit card mask (Python)
 <br>
+- Find the next perfect square! (Python)
+<br>
 - Regex validate PIN code (Python)
 <br>
 - Sum of odd numbers (Python)
