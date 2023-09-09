@@ -6,6 +6,8 @@ My solutions for Codewars Katas
 <br>
 - Credit card mask (Python)
 <br>
+- Regex validate PIN code (Python)
+<br>
 - Sum of odd numbers (Python)
 <br>
 </details>
@@ -13,6 +15,8 @@ My solutions for Codewars Katas
 <details>
 <summary>8 Kyu</summary>
 <br>
-- None (for now)
+- Counting Sheep (Python)
+<br>
+- Is Opposite (Python)
 <br>
 </details>
