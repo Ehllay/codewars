@@ -19,7 +19,10 @@ My solutions for Codewars Katas
 <br>
 - Counting Sheep (Python)
 <br>
+- Get Planet Name by ID (Python)
+<br>
 - Is Opposite (Python)
 <br>
 - Reversed Strings (Python)
+<br>
 </details>
