@@ -21,4 +21,5 @@ My solutions for Codewars Katas
 <br>
 - Is Opposite (Python)
 <br>
+- Reversed Strings (Python)
 </details>
