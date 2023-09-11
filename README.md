@@ -3,7 +3,6 @@ My solutions for Codewars Katas
 
 <details>
 <summary>7 Kyu</summary>
-<br>
 - Credit card mask (Python)
 <br>
 - Find the next perfect square! (Python)
@@ -16,6 +15,7 @@ My solutions for Codewars Katas
 
 <details>
 <summary>8 Kyu</summary>
+- Convert number to reversed array of digits (Python)
 <br>
 - Counting Sheep (Python)
 <br>
