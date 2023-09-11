@@ -23,6 +23,8 @@ My solutions for Codewars Katas
 <br>
 - Is Opposite (Python)
 <br>
+- Opposites Attract (Python)
+<br>
 - Reversed Strings (Python)
 <br>
 </details>
