@@ -13,6 +13,8 @@ My solutions for Codewars Katas
 <br>
 - Sum of odd numbers (Python)
 <br>
+- Vampire Numbers (Python)
+<br>
 </details>
 
 <details>
