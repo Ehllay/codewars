@@ -31,4 +31,6 @@ My solutions for Codewars Katas
 <br>
 - Reversed Strings (Python)
 <br>
+ - Total amount of points (Python)
+ <br>
 </details>
