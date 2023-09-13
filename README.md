@@ -2,6 +2,12 @@
 My solutions for Codewars Katas
 
 <details>
+<summary>5 Kyu</summary>
+- First non-repeating character (Python)
+<br>
+</details>
+
+<details>
 <summary>7 Kyu</summary>
 - Credit card mask (Python)
 <br>
