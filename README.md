@@ -1,4 +1,5 @@
 # codewars
+
 My solutions for Codewars Katas
 
 <details>
@@ -32,6 +33,8 @@ My solutions for Codewars Katas
 - Get Planet Name by ID (Python)
 <br>
 - Is Opposite (Python)
+<br>
+- Lost Without a Map (Python)
 <br>
 - Opposites Attract (Python)
 <br>
