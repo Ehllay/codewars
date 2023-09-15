@@ -6,6 +6,8 @@ My solutions for Codewars Katas
 <summary>5 Kyu</summary>
 - First non-repeating character (Python)
 <br>
+- Moving Zeros To The End (Pytho)
+<br>
 </details>
 
 <details>
