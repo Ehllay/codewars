@@ -30,6 +30,8 @@ My solutions for Codewars Katas
 <br>
 - Counting Sheep (Python)
 <br>
+- Floating point comparison (Python)
+<br>
 - Get Planet Name by ID (Python)
 <br>
 - Is Opposite (Python)
