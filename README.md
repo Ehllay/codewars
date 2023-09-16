@@ -28,6 +28,8 @@ My solutions for Codewars Katas
 
 <details>
 <summary>8 Kyu</summary>
+- Calculate average (Python)
+<br>
 - Convert number to reversed array of digits (Python)
 <br>
 - Counting Sheep (Python)
