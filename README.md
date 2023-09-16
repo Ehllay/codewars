@@ -6,7 +6,13 @@ My solutions for Codewars Katas
 <summary>5 Kyu</summary>
 - First non-repeating character (Python)
 <br>
-- Moving Zeros To The End (Pytho)
+- Moving Zeros To The End (Python)
+<br>
+</details>
+
+<details>
+<summary>6 Kyu</summary>
+- Convert string to camel case (Python)
 <br>
 </details>
 
