@@ -20,6 +20,8 @@ My solutions for Codewars Katas
 <summary>7 Kyu</summary>
 - Credit card mask (Python)
 <br>
+- Descending Order (Python)
+<br>
 - Find the next perfect square! (Python)
 <br>
 - Friend or Foe? (Python)
