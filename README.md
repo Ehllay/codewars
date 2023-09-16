@@ -18,6 +18,8 @@ My solutions for Codewars Katas
 
 <details>
 <summary>7 Kyu</summary>
+- Categorize New Member (Python)
+<br>
 - Credit card mask (Python)
 <br>
 - Descending Order (Python)
