@@ -4,6 +4,3 @@ def make_readable(seconds):
         m = str(seconds % 3600 // 60).zfill(2)
         s = str(seconds % 3600 % 60).zfill(2)
         return f"{h}:{m}:{s}"
-
-
-print(make_readable(0))

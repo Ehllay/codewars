@@ -6,6 +6,8 @@ My solutions for Codewars Katas
 <summary>5 Kyu</summary>
 - First non-repeating character (Python)
 <br>
+- Human Readable Time (Python)
+<br>
 - Moving Zeros To The End (Python)
 <br>
 </details>
@@ -38,6 +40,8 @@ My solutions for Codewars Katas
 
 <details>
 <summary>8 Kyu</summary>
+- Are You Playing Banjo? (Python)
+<br>
 - Calculate average (Python)
 <br>
 - Convert number to reversed array of digits (Python)
