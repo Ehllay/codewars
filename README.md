@@ -30,6 +30,8 @@ My solutions for Codewars Katas
 <br>
 - Friend or Foe? (Python)
 <br>
+- Ones and Zeros (Python)
+<br>
 - Regex validate PIN code (Python)
 <br>
 - Sum of odd numbers (Python)
