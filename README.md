@@ -4,6 +4,8 @@ My solutions for Codewars Katas
 
 <details>
 <summary>5 Kyu</summary>
+- Decode the Morse code (Python)
+<br>
 - First non-repeating character (Python)
 <br>
 - Human Readable Time (Python)
