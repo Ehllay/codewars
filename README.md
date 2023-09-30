@@ -64,6 +64,8 @@ My solutions for Codewars Katas
 <br>
 - Reversed Strings (Python)
 <br>
- - Total amount of points (Python)
- <br>
+- Rock Paper Scissors! (Python) 
+<br>
+- Total amount of points (Python)
+<br>
 </details>
