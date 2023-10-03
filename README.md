@@ -33,6 +33,8 @@ My solutions for Codewars Katas
 <br>
 - Is Opposite (Python)
 <br>
+- Jenny's secret message (Python)
+<br>
 - Opposites Attract (Python)
 <br>
 - Reversed Strings (Python)
