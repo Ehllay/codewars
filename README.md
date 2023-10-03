@@ -58,11 +58,9 @@ My solutions for Codewars Katas
 <br>
 - Is Opposite (Python)
 <br>
-<<<<<<< HEAD
 - Jenny's secret message (Python)
-=======
+<br>
 - Lost Without a Map (Python)
->>>>>>> origin/main
 <br>
 - Opposites Attract (Python)
 <br>
