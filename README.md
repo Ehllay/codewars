@@ -62,6 +62,8 @@ My solutions for Codewars Katas
 <br>
 - Lost Without a Map (Python)
 <br>
+- Multiply (Python, Rust)
+<br>
 - Opposites Attract (Python)
 <br>
 - Reversed Strings (Python)
