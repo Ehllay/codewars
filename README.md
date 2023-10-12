@@ -66,6 +66,8 @@ My solutions for Codewars Katas
 <br>
 - Opposites Attract (Python)
 <br>
+- Parse nice int from char problem (Rust)
+<br>
 - Reversed Strings (Python)
 <br>
 - Rock Paper Scissors! (Python) 
