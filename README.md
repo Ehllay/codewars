@@ -54,6 +54,8 @@ My solutions for Codewars Katas
 <br>
 - Floating point comparison (Python)
 <br>
+- Function 1 - hello world (Rust)
+<br>
 - Get Planet Name by ID (Python)
 <br>
 - Is Opposite (Python)
