@@ -46,6 +46,8 @@ My solutions for Codewars Katas
 <summary>8 Kyu</summary>
 - Are You Playing Banjo? (Python)
 <br>
+- Beginner Series #4 Cockroach (Rust)
+<br>
 - Calculate average (Python)
 <br>
 - Convert number to reversed array of digits (Python)
