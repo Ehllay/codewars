@@ -44,6 +44,7 @@ My solutions for Codewars Katas
 
 <details>
 <summary>8 Kyu</summary>
+- altERnaTIng cAsE <=> ALTerNAtiNG CaSe (Rust)
 - Are You Playing Banjo? (Python)
 <br>
 - Beginner Series #4 Cockroach (Rust)
