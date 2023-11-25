@@ -78,6 +78,8 @@ My solutions for Codewars Katas
 <br>
 - Rock Paper Scissors! (Python) 
 <br>
+- Sum of Positive (Rust)
+<br>
 - Total amount of points (Python)
 <br>
 - You Can't Code Under Pressure #1 (Rust)
