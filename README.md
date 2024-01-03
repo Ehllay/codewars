@@ -60,7 +60,10 @@ My solutions for Codewars Katas
 - Function 1 - hello world (Rust)
 <br>
 - Get Planet Name by ID (Python)
+<br>
 - Grasshopper - Personalized Message (Rust)
+<br>
+- Grasshopper - Summation (Rust)
 <br>
 - Is Opposite (Python)
 <br>
