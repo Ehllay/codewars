@@ -65,6 +65,8 @@ My solutions for Codewars Katas
 <br>
 - Grasshopper - Summation (Rust)
 <br>
+- MakeUpperCase (Rust)
+<br>
 - Is Opposite (Python)
 <br>
 - Jenny's secret message (Python)
